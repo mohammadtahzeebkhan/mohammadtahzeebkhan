@@ -16,6 +16,7 @@
 <a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
 </a>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="react" width="100" height="80"/>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
 </a>
