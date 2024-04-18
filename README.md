@@ -10,16 +10,12 @@
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-<!-- Cloud Section -->
+<!-- Technology Section -->
 <h4><font size="+1" face="Tahoma">Cloud:</font></h4>
 <p align="left">
-<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
-</a>
+
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="react" width="200" height="100"/>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
-</a>
+
 <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
 </a>
