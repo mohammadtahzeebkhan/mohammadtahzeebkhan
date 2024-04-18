@@ -56,10 +56,10 @@
 <!-- Stats and GitHub activity -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="n4si" /> </p>
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- 👯 I’m looking to collaborate on *Cloud-native Projects*
+- I work on Frontend Dev with React.js Technology everything around it.
+- 👯 I’m looking to collaborate on React.js Technology Projects*
 
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<h3 align="left"><font size="+2" face="Verdana">Connect with me: +917486882890</font></h3>
 <p align="left">
 </p>
