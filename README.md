@@ -73,7 +73,7 @@ MOHAMMAD TAHZEEB KHAN
 <h3 align="left">📞 Connect with me:</h3>
 
 - 📱 +91 7486882890
-- 📧 your-email@example.com
+- 📧 mohammadtahzeebkhan@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammad-tahzeeb-khan-ba902a17b/
 
 <!-- GitHub Stats -->
